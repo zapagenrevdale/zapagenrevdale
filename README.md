@@ -50,9 +50,41 @@
 | **Frontend**       | `React`, `Next.js`, `Tanstack` |
 | **Backend**        | `Hono`, `Node.js`, `FastAPI`, `Flask` |
 | **AI**             | `OpenAI`, `Anthropic`, `Ollama` |
-| **Infrastructure** | `AWS`, `GitHub Actions`, `SST`, `Docker`, `Vercel`, |
+| **Infrastructure** | `AWS`, `GitHub Actions`, `SST`, `Docker`, `Vercel` |
 | **Database**       | `PostgreSQL`, `Prisma`, `SQLAlchemy`, `RDS`, `Supabase`, `Turso` |
 | **Testing**        | `Vitest`, `Cypress`, `Pytest` |
 | **UI**             | `Tailwind CSS`, `Shadcn UI`, `Framer Motion` |
 | **Repository**     | `PNPM`, `TurboRepo`, `T3` |
 | **Repo Tooling**   | `Eslint`, `Prettier`, `TypeScript`, `Black` |
+
+## 🛠️ Daily Tools of Trade
+
+<p align="center">
+    <a href="https://neovim.io">
+        <img src="https://zapagenrevdale-github.s3.ap-southeast-1.amazonaws.com/neovim.png" height="30"/>
+    </a>
+    <a href="https://git-scm.com">
+        <img src="https://zapagenrevdale-github.s3.ap-southeast-1.amazonaws.com/git.png" height="30"/>
+    </a>
+    <a href="https://github.com">
+        <img src="https://zapagenrevdale-github.s3.ap-southeast-1.amazonaws.com/github.png" height="30"/>
+    </a>
+    <a href="https://www.notion.so">
+        <img src="https://zapagenrevdale-github.s3.ap-southeast-1.amazonaws.com/notion.png" height="30"/>
+    </a>
+    <a href="https://raycast.com">
+        <img src="https://zapagenrevdale-github.s3.ap-southeast-1.amazonaws.com/raycast.png" height="30"/>
+    </a>
+    <a href="https://slack.com">
+        <img src="https://zapagenrevdale-github.s3.ap-southeast-1.amazonaws.com/slack.png" height="30"/>
+    </a>
+    <a href="https://discord.com">
+        <img src="https://zapagenrevdale-github.s3.ap-southeast-1.amazonaws.com/discord.png" height="30"/>
+    </a>
+    <a href="https://bitwarden.com">
+        <img src="https://zapagenrevdale-github.s3.ap-southeast-1.amazonaws.com/bitwarden.png" height="30"/>
+    </a>
+    <a href="https://spotify.com">
+        <img src="https://zapagenrevdale-github.s3.ap-southeast-1.amazonaws.com/spotify.png" height="30"/>
+    </a>
+</p>
