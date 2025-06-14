@@ -41,4 +41,16 @@
 
 - 📚 Actively using **AWS** and studying its services, alongside **system design principles** and **modern DevOps practices**, to deepen my **cloud infrastructure** and **architectural skills**.
 
----
+
+## 🔥 Tech Stack
+
+| Category        | Tools |
+|----------------|-------|
+| **Languages**      | `TypeScript`, `Python`, `SQL` |
+| **Frontend**       | `React`, `Next.js` |
+| **Backend**        | `Hono`, `Node.js`, `FastAPI`, `Flask` |
+| **AI**             | `OpenAI`, `Anthropic`, `Ollama` |
+| **Infrastructure** | `AWS`, `GitHub Actions`, `SST`, `Vercel` |
+| **Database**       | `PostgreSQL`, `Prisma`, `SQLAlchemy`, `RDS`, `Supabase`, `Turso` |
+| **Testing**        | `Vitest`, `Cypress`, `Pytest` |
+| **UI**             | `Tailwind CSS`, `Shadcn UI`, `Framer Motion` |
