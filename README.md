@@ -4,7 +4,7 @@
 
 <p align="center">
   <b>
-    Full-Stack Software Engineer • Aspiring Software Architect • Startup Enthusiast
+    Full-Stack Engineer • System Design • Startup Builder
   </b>
   <br>
   I wake up to build scalable products that matter.
@@ -43,19 +43,17 @@
 
 ## 🔥 Tech Stack
 
-| Area                   | Tools/Framework |
-|:----------------------|:----------------|
-| **Languages**           | `TypeScript`, `Python`, `SQL` |
-| **Frontend**            | `React`, `Next.js`, `Tanstack` |
-| **Backend**             | `Hono`, `Node.js`, `FastAPI`, `Flask` |
-| **AI**                  | `OpenAI`, `Anthropic`, `Ollama` |
-| **Cloud Infrastructure**| `AWS`, `VPC`, `EC2`, `Lambda`, `S3`, `RDS`, `CloudFront`, `Route 53`, `ECS`, `EventBridge`, `SQS`, `SNS`, `Secrets Manager`, `CloudWatch`, `SES`, `Rekognition`, `CloudFormation` |
-| **DevOps & Platform**   | `Vercel`, `GitHub Actions`, `SST`, `Docker` |
-| **Database**            | `PostgreSQL`, `Prisma`, `SQLAlchemy`, `Supabase`, `Turso` |
-| **Testing**             | `Vitest`, `Cypress`, `Pytest` |
-| **UI**                  | `Tailwind CSS`, `Shadcn UI`, `Framer Motion` |
-| **Monorepo**            | `PNPM`, `TurboRepo`, `T3 Stack` |
-| **Repo Tooling**        | `Eslint`, `Prettier`, `TypeScript`, `Black` |
+| Area                   | Tools / Frameworks |
+|:-----------------------|:-------------------|
+| **Languages**          | `TypeScript`, `Python`, `SQL` |
+| **Frontend**           | `React`, `Next.js`, `TanStack`, `Tailwind CSS`, `Shadcn UI`, `Framer Motion` |
+| **Backend**            | `Node.js`, `Hono`, `FastAPI`, `Flask` |
+| **AI & LLM**           | `OpenAI`, `Anthropic`, `Ollama` |
+| **Databases**          | `PostgreSQL`, `Supabase`, `Turso`, `Prisma`, `SQLAlchemy` |
+| **Cloud & Infra**      | `AWS (VPC, EC2, Lambda, S3, RDS, ECS, CloudFront, Route 53, EventBridge, SQS, SNS, SES, Secrets Manager, CloudWatch, CloudFormation)` |
+| **DevOps & CI/CD**     | `SST`, `Docker`, `GitHub Actions`, `Vercel` |
+| **Monorepo & Tooling** | `PNPM`, `TurboRepo`, `T3 Stack`, `ESLint`, `Prettier`, `TypeScript`, `Black` |
+| **Testing**            | `Vitest`, `Cypress`, `Pytest` |
 
 ### 🛠️ Daily Tools
 
@@ -103,6 +101,7 @@
 
   - [📖 LazyReader App](https://lazy-reader.genrevzapa.com/)
   - [📝 Architecture Blog](https://portfolio.genrevzapa.com/blogs/lazy-reader)
+  - [📂 GitHub Repo](https://github.com/zapagenrevdale/lazy-reader)
 
 ### 📦 Work Projects
 
