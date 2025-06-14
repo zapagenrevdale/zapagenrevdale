@@ -104,34 +104,52 @@
 
 ---
 
+## 🔭 Projects
+
+### 🎨 Personal Projects
+
+- **AetherLenz**
+  > AetherLenz is a photo sales platform for tourist destinations. It allows visitors to easily access and purchase their professionally taken photos online after their visit. The platform uses AI image recognition to automatically match photos to visitors, removing the need for manual sorting or on-site purchases.
+
+  - [🌐 AetherLenz Website](https://www.aetherlenz.com/)
+  - [📸 Photographer Portal](https://photographer.aetherlenz.com/)
+  - [🗂️ Organizer Dashboard](https://organizer.aetherlenz.com/)
+  - [📝 Architecture Blog](https://portfolio.genrevzapa.com/blogs/aetherlenz-architecture)
+
+- **LazyReader**
+  > LazyReader is a web application that summarizes blog articles and converts them into audio summaries. Users can paste a blog URL, and the app instantly generates a concise text and audio version of the content — ideal for quick, digestible learning.
+
+  - [📖 LazyReader App](https://lazy-reader.genrevzapa.com/)
+  - [📝 Architecture Blog](https://portfolio.genrevzapa.com/blogs/lazy-reader)
+
+---
+
 ### 📦 Work Projects
 
 - **OMNI | FGI**
-  > OMNI is a centralized ecommerce management platform designed to handle product catalogs, inventory, order processing, and promotional campaigns across multiple brands. It’s divided into:
+  > OMNI is a centralized ecommerce management platform designed to handle product catalogs, inventory, order processing, and promotional campaigns across multiple retail brands. It’s divided into:
   >
   > - **OMNI-X (Ecommerce API):** Public-facing API handling customer operations like browsing, ordering, and order tracking.
   > - **OMNI-I (Ecommerce Tool):** Internal admin tool for managing product listings, inventory, pricing, and promotions.
 
-  - **OMNI-X (Ecommerce API)**
-    - [📝 architecture.md](https://portfolio.genrevzapa.com/blogs/omni-architecture)
-  - **OMNI-I (Ecommerce Tool)**
-    - [📝 architecture.md](https://portfolio.genrevzapa.com/blogs/omni-architecture)
+  - [📝 OMNI-X Architecture Blog](https://portfolio.genrevzapa.com/blogs/omni-architecture)
+  - [📝 OMNI-I Architecture Blog](https://portfolio.genrevzapa.com/blogs/omni-architecture)
 
 - **Microsites | FGI**
   > Standalone promotional microsites for luxury brands and premium product lines, typically for lead generation and product showcases.
 
-  - [🌐 siematic-ph.html](https://siematic-philippines.com)
+  - [🌐 Siematic Philippines](https://siematic-philippines.com)
 
 - **Ecommerce | FGI**
   > Full-fledged ecommerce websites for international and regional retail brands. All platforms connect to **OMNI** for real-time product catalog management, order processing, and inventory synchronization.
 
-  - [🛒 sealy-ph.html](https://www.sealy.ph)
-  - [🛒 kitchenaid-ph.html](https://shop.kitchenaid.ph)
-  - [🛒 kitchenaid-sg.html](https://www.kitchenaid.sg)
-  - [🛒 brumate-ph.html](https://www.brumate.com.ph)
-  - [🛒 brumate-sg.html](https://www.brumate.com.sg)
-  - [🛒 brumate-my.html](https://www.brumate.com.my)
-  - [🛒 coleman-ph.html](https://www.colemanphilippines.com)
-  - [🛒 oster-ph.html](https://www.osterphilippines.com)
-  - [🛒 levoit-ph.html](https://levoit.com.ph)
-  - [🛒 philips-ph.html](https://www.shop-philips.com.ph)
+  - [🛒 Sealy Philippines](https://www.sealy.ph)
+  - [🛒 KitchenAid Philippines](https://shop.kitchenaid.ph)
+  - [🛒 KitchenAid Singapore](https://www.kitchenaid.sg)
+  - [🛒 BrüMate Philippines](https://www.brumate.com.ph)
+  - [🛒 BrüMate Singapore](https://www.brumate.com.sg)
+  - [🛒 BrüMate Malaysia](https://www.brumate.com.my)
+  - [🛒 Coleman Philippines](https://www.colemanphilippines.com)
+  - [🛒 Oster Philippines](https://www.osterphilippines.com)
+  - [🛒 Levoit Philippines](https://levoit.com.ph)
+  - [🛒 Philips Philippines](https://www.shop-philips.com.ph)
