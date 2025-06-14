@@ -12,6 +12,6 @@
 
 <p align="center">
   <a href="mailto:zapagenrevdale@gmail.com">
-      <img src="https://zapagenrevdale-github.s3.ap-southeast-1.amazonaws.com/gmail.png" height="30"/>
+      <img src="https://zapagenrevdale-github.s3.ap-southeast-1.amazonaws.com/gmail.png" height="20"/>
   </a>
 </p>
