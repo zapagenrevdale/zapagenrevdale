@@ -29,16 +29,16 @@
 
 ## 📖 About Me
 
-💻 **Full-Stack Software Engineer** who only thinks about designing **scalable, meaningful tech**.
+- 💻 **Full-Stack Software Engineer** who only thinks about designing **scalable, meaningful tech**.
 
-🏗️ Focused on **backend development** — building **serverless-first infrastructure** and **modern distributed systems**.
+- 🏗️ Focused on **backend development** — building **serverless-first infrastructure** and **modern distributed systems**.
 
-🚀 Co-founded **AetherLenz**, a startup with a vision to help increase the value of human creativity through **AI**.
+- 🚀 Co-founded **AetherLenz**, a startup with a vision to help increase the value of human creativity through **AI**.
 
-🎯 I believe in using tech not just to solve problems — but to **unlock new opportunities and value**.
+- 🎯 I believe in using tech not just to solve problems — but to **unlock new opportunities and value**.
 
-✨ Obsessed with **simplifying complex systems** so I can **build and ship scalable products faster**.
+- ✨ Obsessed with **simplifying complex systems** so I can **build and ship scalable products faster**.
 
-📚 Actively using **AWS** and studying its services, alongside **system design principles** and **modern DevOps practices**, to deepen my **cloud infrastructure** and **architectural skills**.
+- 📚 Actively using **AWS** and studying its services, alongside **system design principles** and **modern DevOps practices**, to deepen my **cloud infrastructure** and **architectural skills**.
 
 ---
