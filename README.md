@@ -83,7 +83,6 @@
 <a href="https://spotify.com">
     <img src="https://zapagenrevdale-github.s3.ap-southeast-1.amazonaws.com/spotify.png" height="30"/>
 </a>
-
 ---
 
 ## 🔭 Projects
@@ -91,9 +90,7 @@
 ### 🎨 Personal Projects
 
 - **AetherLenz**
-  ```text
-  AetherLenz is a photo sales platform for tourist destinations. It allows visitors to easily access and purchase their professionally taken photos online after their visit. The platform uses AI image recognition to automatically match photos to visitors, removing the need for manual sorting or on-site purchases.
-  ```
+  > AetherLenz is a photo sales platform for tourist destinations. It allows visitors to easily access and purchase their professionally taken photos online after their visit. The platform uses AI image recognition to automatically match photos to visitors, removing the need for manual sorting or on-site purchases.
 
   - [🌐 AetherLenz Website](https://www.aetherlenz.com/)
   - [📸 Photographer Portal](https://photographer.aetherlenz.com/)
@@ -101,9 +98,7 @@
   - [📝 Architecture Blog](https://portfolio.genrevzapa.com/blogs/aetherlenz-architecture)
 
 - **LazyReader**
-  ```text
-  LazyReader is a web application that summarizes blog articles and converts them into audio summaries. Users can paste a blog URL, and the app instantly generates a concise text and audio version of the content — ideal for quick, digestible learning.
-  ```
+  > LazyReader is a web application that summarizes blog articles and converts them into audio summaries. Users can paste a blog URL, and the app instantly generates a concise text and audio version of the content — ideal for quick, digestible learning.
 
   - [📖 LazyReader App](https://lazy-reader.genrevzapa.com/)
   - [📝 Architecture Blog](https://portfolio.genrevzapa.com/blogs/lazy-reader)
@@ -111,26 +106,20 @@
 ### 📦 Work Projects
 
 - **OMNI | FGI**
-  ```text
-  OMNI is a centralized ecommerce management platform designed to handle product catalogs, inventory, order processing, and promotional campaigns across multiple retail brands. It’s divided into:
-
-  - OMNI-X (Ecommerce API): Public-facing API handling customer operations like browsing, ordering, and order tracking.
-  - OMNI-I (Ecommerce Tool): Internal admin tool for managing product listings, inventory, pricing, and promotions.
-  ```
+  > OMNI is a centralized ecommerce management platform designed to handle product catalogs, inventory, order processing, and promotional campaigns across multiple retail brands. It’s divided into:
+  >
+  > - **OMNI-X (Ecommerce API):** Public-facing API handling customer operations like browsing, ordering, and order tracking.
+  > - **OMNI-I (Ecommerce Tool):** Internal admin tool for managing product listings, inventory, pricing, and promotions.
 
   - [📝 OMNI Architecture Blog](https://portfolio.genrevzapa.com/blogs/omni-architecture)
 
 - **Microsites | FGI**
-  ```text
-  Standalone promotional microsites for luxury brands and premium product lines, typically for lead generation and product showcases.
-  ```
+  > Standalone promotional microsites for luxury brands and premium product lines, typically for lead generation and product showcases.
 
   - [🌐 Siematic Philippines](https://siematic-philippines.com)
 
 - **Ecommerce | FGI**
-  ```text
-  Full-fledged ecommerce websites for international and regional retail brands. All platforms connect to OMNI for real-time product catalog management, order processing, and inventory synchronization.
-  ```
+  > Full-fledged ecommerce websites for international and regional retail brands. All platforms connect to **OMNI** for real-time product catalog management, order processing, and inventory synchronization.
 
   - 🛒 [Sealy](https://www.sealy.ph)
   - 🛒 KitchenAid:
