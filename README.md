@@ -139,14 +139,14 @@ I'm always open to connecting, brainstorming, or collaborating on meaningful pro
 
 <p align="left">
   <a href="https://cal.com/genrev-zapa/chat-with-genrev">
-    <img src="https://zapagenrevdale-github.s3.ap-southeast-1.amazonaws.com/cal.png" height="24"/> Schedule a chat
+    <img src="https://zapagenrevdale-github.s3.ap-southeast-1.amazonaws.com/cal.png" height="12"/> Schedule a chat
   </a>
   <br>
   <a href="mailto:zapagenrevdale@gmail.com">
-    <img src="https://zapagenrevdale-github.s3.ap-southeast-1.amazonaws.com/gmail.png" height="24"/> Email me
+    <img src="https://zapagenrevdale-github.s3.ap-southeast-1.amazonaws.com/gmail.png" height="12"/> Email me
   </a>
   <br>
   <a href="https://www.linkedin.com/in/genrev-dale-zapa">
-    <img src="https://zapagenrevdale-github.s3.ap-southeast-1.amazonaws.com/linkedin.png" height="24"/> Connect on LinkedIn
+    <img src="https://zapagenrevdale-github.s3.ap-southeast-1.amazonaws.com/linkedin.png" height="12"/> Connect on LinkedIn
   </a>
 </p>
