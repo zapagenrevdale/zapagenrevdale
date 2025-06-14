@@ -59,32 +59,27 @@
 
 ## 🛠️ Daily Tools of Trade
 
-<p align="center">
-    <a href="https://neovim.io">
-        <img src="https://zapagenrevdale-github.s3.ap-southeast-1.amazonaws.com/neovim.png" height="30"/>
-    </a>
-    <a href="https://git-scm.com">
-        <img src="https://zapagenrevdale-github.s3.ap-southeast-1.amazonaws.com/git.png" height="30"/>
-    </a>
-    <a href="https://github.com">
-        <img src="https://zapagenrevdale-github.s3.ap-southeast-1.amazonaws.com/github.png" height="30"/>
-    </a>
-    <a href="https://www.notion.so">
-        <img src="https://zapagenrevdale-github.s3.ap-southeast-1.amazonaws.com/notion.png" height="30"/>
-    </a>
-    <a href="https://raycast.com">
-        <img src="https://zapagenrevdale-github.s3.ap-southeast-1.amazonaws.com/raycast.png" height="30"/>
-    </a>
-    <a href="https://slack.com">
-        <img src="https://zapagenrevdale-github.s3.ap-southeast-1.amazonaws.com/slack.png" height="30"/>
-    </a>
-    <a href="https://discord.com">
-        <img src="https://zapagenrevdale-github.s3.ap-southeast-1.amazonaws.com/discord.png" height="30"/>
-    </a>
-    <a href="https://bitwarden.com">
-        <img src="https://zapagenrevdale-github.s3.ap-southeast-1.amazonaws.com/bitwarden.png" height="30"/>
-    </a>
-    <a href="https://spotify.com">
-        <img src="https://zapagenrevdale-github.s3.ap-southeast-1.amazonaws.com/spotify.png" height="30"/>
-    </a>
-</p>
+<a href="https://neovim.io">
+    <img src="https://zapagenrevdale-github.s3.ap-southeast-1.amazonaws.com/neovim.png" height="30"/>
+</a>
+<a href="https://git-scm.com">
+    <img src="https://zapagenrevdale-github.s3.ap-southeast-1.amazonaws.com/git.png" height="30"/>
+</a>
+<a href="https://www.notion.so">
+    <img src="https://zapagenrevdale-github.s3.ap-southeast-1.amazonaws.com/notion.png" height="30"/>
+</a>
+<a href="https://raycast.com">
+    <img src="https://zapagenrevdale-github.s3.ap-southeast-1.amazonaws.com/raycast.png" height="30"/>
+</a>
+<a href="https://slack.com">
+    <img src="https://zapagenrevdale-github.s3.ap-southeast-1.amazonaws.com/slack.png" height="30"/>
+</a>
+<a href="https://discord.com">
+    <img src="https://zapagenrevdale-github.s3.ap-southeast-1.amazonaws.com/discord.png" height="30"/>
+</a>
+<a href="https://bitwarden.com">
+    <img src="https://zapagenrevdale-github.s3.ap-southeast-1.amazonaws.com/bitwarden.png" height="30"/>
+</a>
+<a href="https://spotify.com">
+    <img src="https://zapagenrevdale-github.s3.ap-southeast-1.amazonaws.com/spotify.png" height="30"/>
+</a>
