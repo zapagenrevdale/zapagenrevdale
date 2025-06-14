@@ -132,3 +132,8 @@
   - 🛒 [Philips Personal Care](https://www.shop-philips.com.ph)
 
 ---
+
+## 🤝 Let's Connect
+
+I'm always open to connecting, brainstorming, or collaborating on meaningful projects.
+📩 [Email me](mailto:zapagenrevdale@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/genrev-dale-zapa)!
