@@ -107,7 +107,7 @@
 ### 📦 Work Projects
 
 - **OMNI | FGI**
-  > OMNI is a centralized ecommerce management platform designed to handle product catalogs, inventory, order processing, and promotional campaigns across multiple retail brands. It’s divided into:
+  > OMNI is a centralized ecommerce management platform designed to handle product catalogs, inventory, order processing, and promotional campaigns across multiple brands. It’s divided into:
   >
   > - **OMNI-X (Ecommerce API):** Public-facing API handling customer operations like browsing, ordering, and order tracking.
   > - **OMNI-I (Ecommerce Tool):** Internal admin tool for managing product listings, inventory, pricing, and promotions.
