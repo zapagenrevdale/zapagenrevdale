@@ -123,11 +123,10 @@
   > Full-fledged ecommerce websites for international and regional retail brands. All platforms connect to **OMNI** for real-time product catalog management, order processing, and inventory synchronization.
 
   - [🛒 Sealy Philippines](https://www.sealy.ph)
-  - [🛒 KitchenAid Philippines](https://shop.kitchenaid.ph)
-  - [🛒 KitchenAid Singapore](https://www.kitchenaid.sg)
-  - [🛒 BrüMate Philippines](https://www.brumate.com.ph)
-  - [🛒 BrüMate Singapore](https://www.brumate.com.sg)
-  - [🛒 BrüMate Malaysia](https://www.brumate.com.my)
+  - KitchenAid:
+    [Philippines](https://shop.kitchenaid.ph) | [Singapore](https://www.kitchenaid.sg)
+  - BrüMate:
+    [Philippines](https://www.brumate.com.ph) | [Singapore](https://www.brumate.com.sg) | [Malaysia](https://www.brumate.com.my)
   - [🛒 Coleman Philippines](https://www.colemanphilippines.com)
   - [🛒 Oster Philippines](https://www.osterphilippines.com)
   - [🛒 Levoit Philippines](https://levoit.com.ph)
