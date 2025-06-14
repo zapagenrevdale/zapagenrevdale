@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-    <a href="https://portfolio.genrevzapa.com" target="_blank">
+    <a href="https://portfolio.genrevzapa.com">
         <img src="https://zapagenrevdale-github.s3.ap-southeast-1.amazonaws.com/zen-browser-light.png" height="24"/>
     </a>
     <a href="https://www.linkedin.com/in/genrev-dale-zapa">
@@ -24,3 +24,6 @@
         <img src="https://zapagenrevdale-github.s3.ap-southeast-1.amazonaws.com/leetcode.png" height="24"/>
     </a>
 </p>
+
+---
+---
