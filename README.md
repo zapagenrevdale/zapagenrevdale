@@ -91,26 +91,6 @@
 - **AetherLenz**
   > AetherLenz is a photo sales platform for tourist destinations. It allows visitors to easily access and purchase their professionally taken photos online after their visit. The platform uses AI image recognition to automatically match photos to visitors, removing the need for manual sorting or on-site purchases.
 
-  - [🌐 main.html](https://www.aetherlenz.com/)
-  - [📸 photographer.html](https://photographer.aetherlenz.com/)
-  - [🗂️ organizer.html](https://organizer.aetherlenz.com/)
-  - [📝 architecture.md](https://portfolio.genrevzapa.com/blogs/aetherlenz-architecture)
-
-- **LazyReader**
-  > LazyReader is a web application that summarizes blog articles and converts them into audio summaries. Users can paste a blog URL, and the app instantly generates a concise text and audio version of the content — ideal for quick, digestible learning.
-
-  - [📖 lazy-reader.html](https://lazy-reader.genrevzapa.com/)
-  - [📝 architecture.md](https://portfolio.genrevzapa.com/blogs/lazy-reader)
-
----
-
-## 🔭 Projects
-
-### 🎨 Personal Projects
-
-- **AetherLenz**
-  > AetherLenz is a photo sales platform for tourist destinations. It allows visitors to easily access and purchase their professionally taken photos online after their visit. The platform uses AI image recognition to automatically match photos to visitors, removing the need for manual sorting or on-site purchases.
-
   - [🌐 AetherLenz Website](https://www.aetherlenz.com/)
   - [📸 Photographer Portal](https://photographer.aetherlenz.com/)
   - [🗂️ Organizer Dashboard](https://organizer.aetherlenz.com/)
