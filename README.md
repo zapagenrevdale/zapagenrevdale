@@ -136,4 +136,7 @@
 ## 🤝 Let's Connect
 
 I'm always open to connecting, brainstorming, or collaborating on meaningful projects.
-📩 [Email me](mailto:zapagenrevdale@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/genrev-dale-zapa)!
+
+📅 [Schedule a chat with me](https://cal.com/genrev-zapa/chat-with-genrev)
+📩 [Email me](mailto:zapagenrevdale@gmail.com)
+💼 [Connect on LinkedIn](https://www.linkedin.com/in/genrev-dale-zapa)
