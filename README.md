@@ -57,7 +57,7 @@
 | **Repository**     | `PNPM`, `TurboRepo`, `T3` |
 | **Repo Tooling**   | `Eslint`, `Prettier`, `TypeScript`, `Black` |
 
-## 🛠️ Daily Tools
+### 🛠️ Daily Tools
 
 <a href="https://neovim.io">
     <img src="https://zapagenrevdale-github.s3.ap-southeast-1.amazonaws.com/neovim.png" height="30"/>
