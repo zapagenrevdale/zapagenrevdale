@@ -112,8 +112,7 @@
   > - **OMNI-X (Ecommerce API):** Public-facing API handling customer operations like browsing, ordering, and order tracking.
   > - **OMNI-I (Ecommerce Tool):** Internal admin tool for managing product listings, inventory, pricing, and promotions.
 
-  - [📝 OMNI-X Architecture Blog](https://portfolio.genrevzapa.com/blogs/omni-architecture)
-  - [📝 OMNI-I Architecture Blog](https://portfolio.genrevzapa.com/blogs/omni-architecture)
+  - [📝 OMNI Architecture Blog](https://portfolio.genrevzapa.com/blogs/omni-architecture)
 
 - **Microsites | FGI**
   > Standalone promotional microsites for luxury brands and premium product lines, typically for lead generation and product showcases.
