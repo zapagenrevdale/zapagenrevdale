@@ -41,21 +41,21 @@
 
 - 📚 Actively using **AWS** and studying its services, alongside **system design principles** and **modern DevOps practices**, to deepen my **cloud infrastructure** and **architectural skills**.
 
-
 ## 🔥 Tech Stack
 
-| Area        | Tools/Framework |
-|----------------|-------|
-| **Languages**      | `TypeScript`, `Python`, `SQL` |
-| **Frontend**       | `React`, `Next.js`, `Tanstack` |
-| **Backend**        | `Hono`, `Node.js`, `FastAPI`, `Flask` |
-| **AI**             | `OpenAI`, `Anthropic`, `Ollama` |
-| **Infrastructure** | `AWS`, `GitHub Actions`, `SST`, `Docker`, `Vercel` |
-| **Database**       | `PostgreSQL`, `Prisma`, `SQLAlchemy`, `RDS`, `Supabase`, `Turso` |
-| **Testing**        | `Vitest`, `Cypress`, `Pytest` |
-| **UI**             | `Tailwind CSS`, `Shadcn UI`, `Framer Motion` |
-| **Monorepo**       | `PNPM`, `TurboRepo`, `T3 Stack` |
-| **Repo Tooling**   | `Eslint`, `Prettier`, `TypeScript`, `Black` |
+| Area                   | Tools/Framework |
+|:----------------------|:----------------|
+| **Languages**           | `TypeScript`, `Python`, `SQL` |
+| **Frontend**            | `React`, `Next.js`, `Tanstack` |
+| **Backend**             | `Hono`, `Node.js`, `FastAPI`, `Flask` |
+| **AI**                  | `OpenAI`, `Anthropic`, `Ollama` |
+| **Cloud Infrastructure**| `AWS`, `VPC`, `EC2`, `Lambda`, `S3`, `RDS`, `CloudFront`, `Route 53`, `ECS`, `EventBridge`, `SQS`, `SNS`, `Secrets Manager`, `CloudWatch`, `SES`, `Rekognition`, `CloudFormation` |
+| **DevOps & Platform**   | `Vercel`, `GitHub Actions`, `SST`, `Docker` |
+| **Database**            | `PostgreSQL`, `Prisma`, `SQLAlchemy`, `Supabase`, `Turso` |
+| **Testing**             | `Vitest`, `Cypress`, `Pytest` |
+| **UI**                  | `Tailwind CSS`, `Shadcn UI`, `Framer Motion` |
+| **Monorepo**            | `PNPM`, `TurboRepo`, `T3 Stack` |
+| **Repo Tooling**        | `Eslint`, `Prettier`, `TypeScript`, `Black` |
 
 ### 🛠️ Daily Tools
 
