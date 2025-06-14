@@ -138,12 +138,12 @@
 I'm always open to connecting, brainstorming, or collaborating on meaningful projects.
 
 <p align="left">
-  <img src="https://zapagenrevdale-github.s3.ap-southeast-1.amazonaws.com/cal.png" height="24"/>
+  <img src="https://zapagenrevdale-github.s3.ap-southeast-1.amazonaws.com/cal.png" height="14"/>
   <a href="https://cal.com/genrev-zapa/chat-with-genrev">Schedule a chat</a>
   <br>
-  <img src="https://zapagenrevdale-github.s3.ap-southeast-1.amazonaws.com/gmail.png" height="24"/>
+  <img src="https://zapagenrevdale-github.s3.ap-southeast-1.amazonaws.com/gmail.png" height="12"/>
   <a href="mailto:zapagenrevdale@gmail.com">Email me</a>
   <br>
-  <img src="https://zapagenrevdale-github.s3.ap-southeast-1.amazonaws.com/linkedin.png" height="24"/>
+  <img src="https://zapagenrevdale-github.s3.ap-southeast-1.amazonaws.com/linkedin.png" height="12"/>
   <a href="https://www.linkedin.com/in/genrev-dale-zapa">Connect on LinkedIn</a>
 </p>
