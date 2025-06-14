@@ -47,10 +47,12 @@
 | Area        | Tools/Framework |
 |----------------|-------|
 | **Languages**      | `TypeScript`, `Python`, `SQL` |
-| **Frontend**       | `React`, `Next.js` |
+| **Frontend**       | `React`, `Next.js`, `Tanstack` |
 | **Backend**        | `Hono`, `Node.js`, `FastAPI`, `Flask` |
 | **AI**             | `OpenAI`, `Anthropic`, `Ollama` |
-| **Infrastructure** | `AWS`, `GitHub Actions`, `SST`, `Vercel` |
+| **Infrastructure** | `AWS`, `GitHub Actions`, `SST`, `Docker`, `Vercel`, |
 | **Database**       | `PostgreSQL`, `Prisma`, `SQLAlchemy`, `RDS`, `Supabase`, `Turso` |
 | **Testing**        | `Vitest`, `Cypress`, `Pytest` |
 | **UI**             | `Tailwind CSS`, `Shadcn UI`, `Framer Motion` |
+| **Repository**     | `PNPM`, `TurboRepo`, `T3` |
+| **Repo Tooling**   | `Eslint`, `Prettier`, `TypeScript`, `Black` |
