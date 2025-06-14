@@ -44,7 +44,6 @@
 
 ## 🔥 Tech Stack
 
-| Category        | Tools |
 |----------------|-------|
 | **Languages**      | `TypeScript`, `Python`, `SQL` |
 | **Frontend**       | `React`, `Next.js` |
