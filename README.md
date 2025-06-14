@@ -116,7 +116,7 @@
 - **Microsites | FGI**
   > Standalone promotional microsites for luxury brands and premium product lines, typically for lead generation and product showcases.
 
-  - [🌐 Siematic Philippines](https://siematic-philippines.com)
+  - [🌐 Siematic](https://siematic-philippines.com)
 
 - **Ecommerce | FGI**
   > Full-fledged ecommerce websites for international and regional retail brands. All platforms connect to **OMNI** for real-time product catalog management, order processing, and inventory synchronization.
