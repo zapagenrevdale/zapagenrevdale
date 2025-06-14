@@ -122,12 +122,12 @@
 - **Ecommerce | FGI**
   > Full-fledged ecommerce websites for international and regional retail brands. All platforms connect to **OMNI** for real-time product catalog management, order processing, and inventory synchronization.
 
-  - [🛒 Sealy Philippines](https://www.sealy.ph)
+  - [🛒 Sealy](https://www.sealy.ph)
   - 🛒 KitchenAid:
-    [Philippines](https://shop.kitchenaid.ph) | [Singapore](https://www.kitchenaid.sg)
+    [PH](https://shop.kitchenaid.ph) | [SG](https://www.kitchenaid.sg)
   - 🛒 BrüMate:
-    [Philippines](https://www.brumate.com.ph) | [Singapore](https://www.brumate.com.sg) | [Malaysia](https://www.brumate.com.my)
-  - [🛒 Coleman Philippines](https://www.colemanphilippines.com)
-  - [🛒 Oster Philippines](https://www.osterphilippines.com)
-  - [🛒 Levoit Philippines](https://levoit.com.ph)
-  - [🛒 Philips Philippines](https://www.shop-philips.com.ph)
+    [PH](https://www.brumate.com.ph) | [SG](https://www.brumate.com.sg) | [MY](https://www.brumate.com.my)
+  - [🛒 Coleman](https://www.colemanphilippines.com)
+  - [🛒 Oster](https://www.osterphilippines.com)
+  - [🛒 Levoit](https://levoit.com.ph)
+  - [🛒 Philips Personal Care](https://www.shop-philips.com.ph)
